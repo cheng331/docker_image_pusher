@@ -1,2 +1,2 @@
-hslr/sun-panel:latest --platform linux/amd64
+hslr/sun-panel:latest
 
