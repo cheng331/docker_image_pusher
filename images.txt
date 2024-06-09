@@ -1,2 +1,2 @@
-hslr/sun-panel:latest
+hslr/sun-panel:latest 
 
