@@ -1,2 +1,2 @@
---platform linux/amd64 charles94jp/ddns:latest
+--platform linux/amd64 hslr/sun-panel:latest
 
