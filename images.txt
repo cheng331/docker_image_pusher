@@ -1,2 +1,1 @@
 --platform linux/amd64 80x86/qbittorrent:amd64
-
