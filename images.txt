@@ -1,1 +1,1 @@
---platform linux/amd64 80x86/qbittorrent:amd64
+--platform linux/amd64 80x86/qbittorrent:5.0.2-41-minimal-amd64-full
