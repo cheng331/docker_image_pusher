@@ -1,2 +1,2 @@
---platform linux/amd64 gdy666/lucky:latest
+--platform linux/amd64 80x86/qbittorrent:amd64
 
