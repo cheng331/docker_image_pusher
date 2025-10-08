@@ -1,6 +1,1 @@
---platform linux/amd64 80x86/filebrowser
---platform linux/amd64 linuxserver/transmission
---platform linux/amd64 p3terx/ariang
---platform linux/amd64 p3terx/aria2-pro
---platform linux/amd64 jlesage/firefox
---platform linux/amd64 jellyfin/jellyfin
+--platform linux/amd64 80x86/filebrowser:5.0.2-41-minimal-amd64-full
